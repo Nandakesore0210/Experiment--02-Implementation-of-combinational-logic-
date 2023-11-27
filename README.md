@@ -22,17 +22,22 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
-Developed by: Nandakesore J
+## Developed by: 
+Nandakesore J
 
-RegisterNumber: 23009689  
-*/
+## RegisterNumber: 
+23009689  
+
+## Code :
+
+![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/4c961eef-da72-4419-8cbe-1afb677fc44e)
+
 RTL realization : 
 
-![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/01ed8d07-4d8d-4041-bd72-ac1f08882987)
+![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/22dd2cc4-fbe2-4c48-89c0-eaeb1df6a2c8)
+
+Timing Diagram :
 
 
-## Output:
-## RTL
-## Timing Diagram
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
