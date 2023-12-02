@@ -75,7 +75,7 @@ endmodule
 
 ## RTL realization : 
 
-![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/22dd2cc4-fbe2-4c48-89c0-eaeb1df6a2c8)
+![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/399ea6c3-a645-445b-96c6-8ce02a70ad70)
 
 ## Timing Diagram :
 
