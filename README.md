@@ -77,6 +77,10 @@ endmodule
 
 ![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/399ea6c3-a645-445b-96c6-8ce02a70ad70)
 
+## Truth Table:
+
+![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/cb1360f6-deaa-492e-a420-03189c64030c)
+
 ## Timing Diagram :
 
 ![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/39e56e43-8018-4168-97a1-fae7dfa6144b)
