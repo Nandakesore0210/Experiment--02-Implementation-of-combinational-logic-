@@ -57,7 +57,7 @@ Give the Input Combinations according to the Truth Table amd then simulate the O
 
 ## Code :
 
-![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/4c961eef-da72-4419-8cbe-1afb677fc44e)
+![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/00dc71c6-8175-4955-9683-70e51d6f883f)
 
 ## RTL realization : 
 
