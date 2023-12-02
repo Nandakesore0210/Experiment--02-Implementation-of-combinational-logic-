@@ -55,20 +55,6 @@ Click on "File" > "New" > "Verification/Debugging Files" > "University Program V
 Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
 Give the Input Combinations according to the Truth Table amd then simulate the Output waveform
 
-## Program:
-
-module ex_02(a,b,c,d,f1);
-input a,b,c,d;
-output f1;
-wire x1,x2,x3,x4,x5;
-assign x1=(~a)&(~b)&(~c)&(~d);
-assign x2=(a) &(~c)&(~d);
-assign x3=(~b)& (c) &(~d);
-assign x4=(~a)& (b) & (c) & (d);
-assign x5=(b) & (~c)&(d);
-assign f1=x1|x2|x3|x4|x5;
-endmodule
-
 ## Code :
 
 ![image](https://github.com/Nandakesore0210/Experiment--02-Implementation-of-combinational-logic-/assets/149365088/4c961eef-da72-4419-8cbe-1afb677fc44e)
